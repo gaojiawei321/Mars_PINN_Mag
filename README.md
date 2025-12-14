@@ -68,13 +68,10 @@ USE_BS_MIX = True  # True: Use IMF outside bow shock; False: Use PINN model ever
 
 ## 🎞️  Movies
 
-- **Movie S1**: [IMF Strength Dependence](./fig/p43_3planes_bimf.mp4)  
-  Magnetic field distribution under varying IMF strengths (1 nT, 2 nT, 4 nT) with fixed P_SW = 0.64 nPa, from the PINN-A1 model.
+- **Movie S1**: [IMF Strength Dependence](./fig/p43_3planes_bimf.gif)  
 
-- **Movie S2**: [Solar Wind Dynamic Pressure Dependence](./fig/p43_3planes_psw.mp4)  
-  Magnetic field distribution under varying P_SW values (0.2, 0.64, 1.6 nPa) with fixed B_IMF = 2 nT, from the PINN-A1 model.
+- **Movie S2**: [Solar Wind Dynamic Pressure Dependence](./fig/p43_3planes_psw.gif)  
 
-- **Movie S3**: [IMF Cone Angle Dependence](./fig/p43_3planes_cone.mp4)  
-  Magnetic field distribution under varying IMF cone angles (30°, 90°, 150°), from the PINN-B model.
+- **Movie S3**: [IMF Cone Angle Dependence](./fig/p43_3planes_cone.gif)  
 
 
