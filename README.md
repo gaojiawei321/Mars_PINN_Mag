@@ -1,4 +1,4 @@
-# Mars_PINN_Mag
+# Modeling Martian induced magnetosphere using PINN
 
 This repository provides code and data for modeling the induced magnetic fields around Mars using Physics-Informed Neural Networks (PINNs). The model integrates MAVEN magnetic field observations with physical constraints and boundary conditions to reconstruct the three-dimensional magnetic field configuration under varying upstream solar wind conditions.
 
