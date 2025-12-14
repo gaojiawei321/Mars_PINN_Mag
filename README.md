@@ -65,7 +65,9 @@ USE_BS_MIX = True  # True: Use IMF outside bow shock; False: Use PINN model ever
 
 ---
 
-![Movie S1 - Bimf Dependence](./fig/pinnA1_3planes_movie.gif)
+![Movie S1 - Bimf Dependence](./fig/pinnA1_3planes_movie_Bimf.gif)
+
+![Movie S2 - Psw Dependence](./fig/pinnA1_3planes_movie.gif)
 
 ![Movie S3 - Cone Angle Dependence](./fig/p43_3planes_cone.gif)
 
