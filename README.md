@@ -21,7 +21,7 @@ MODE = "Psw"  # <<<<<< Switch between "Psw" and "Bimf"
 
 ```
 
-To generate Movies S3, using To gener`plot_xyz_v1_pinn4_bs3_3P.py`:
+To generate Movies S3, using script `plot_xyz_v1_pinn4_bs3_3P.py`:
 
 
 ## 🎬 Movies
