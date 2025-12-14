@@ -22,7 +22,7 @@ MODE = "Psw"  # <<<<<< Switch between "Psw" and "Bimf"
 
 To generate Movies S3, using script `plot_xyz_v1_pinn4_bs3_3P.py`:
 
-## 🔧 Configuration Parameter: `USE_BS_MIX`
+### Configuration Parameter: `USE_BS_MIX`
 
 ```python
 USE_BS_MIX = True  # True: Use IMF outside bow shock; False: Use PINN model everywhere
