@@ -9,7 +9,8 @@ This repository provides code and data for modeling the induced magnetic fields 
 ### Code Structure
 
 - `/Code`: Python scripts for generating figures/movies.
-- `/Fig`: Output figures and visualizations, including Movies S1–S3.
+- `/fig`: Output figures and visualizations, including Movies S1–S3.
+- `/save`: The PINN model and train_norm_stats, including PINN-A1 and PINN-B.
 
 ### How to Reproduce the Movies
 
