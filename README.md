@@ -20,10 +20,45 @@ MODE = "Psw"  # <<<<<< Switch between "Psw" and "Bimf"
 
 ```
 
-### Movies
+## 🎬 Movies
 
-Movie S1. Magnetic field distribution in the induced magnetosphere under varying upstream IMF strengths from the PINN-A1 model. Magnetic field vectors are shown in the slices of the (a) 〖XY〗_MSE, (b) 〖XZ〗_MSE, and (c) 〖YZ〗_MSE planes, respectively. The P_SW is fixed at 0.64 nPa in all cases. The red and magenta lines denote the shape of the bow shock and the magnetic pileup boundary (MPB). Note that in the 〖XY〗_MSE plane, the color bar represents the magnetic field intensity, whereas in the 〖XZ〗_MSE and 〖YZ〗_MSE planes, it represents the B_y component.
+### 📽️ Movie S1: IMF Strength Dependence
 
-Movie S2. Magnetic field distribution in the induced magnetosphere under varying upstream solar wind dynamic pressure from the PINN-A1 model. Magnetic field vectors are shown in the slices of the (a) 〖XY〗_MSE, (b) 〖XZ〗_MSE, and (c) 〖YZ〗_MSE planes, respectively. The B_IMF is fixed at 2 nT in all cases. 
+**Title:** Magnetic field distribution in the induced magnetosphere under varying upstream IMF strengths (PINN-A1 model)
 
-Movie S3. Magnetic field distribution in the induced magnetosphere under varying IMF cone angle from the PINN-B model. Magnetic field vectors are shown in the slices of the (a) 〖XY〗_MSE, (b) 〖XZ〗_MSE, and (c) 〖YZ〗_MSE planes, respectively. 
+- **Model:** PINN-A1
+- **Upstream Conditions:** Varying B_IMF (1 nT, 2 nT, 4 nT); P_SW fixed at 0.64 nPa
+- **Planes Displayed:**
+  - (a) XY_MSE
+  - (b) XZ_MSE
+  - (c) YZ_MSE
+- **Color Bar:**
+  - XY_MSE → Magnetic field intensity
+  - XZ_MSE and YZ_MSE → B_y component
+- **Annotations:** Red and magenta lines represent the bow shock and magnetic pileup boundary (MPB), respectively.
+
+---
+
+### 📽️ Movie S2: Dynamic Pressure Dependence
+
+**Title:** Magnetic field distribution in the induced magnetosphere under varying solar wind dynamic pressure (PINN-A1 model)
+
+- **Model:** PINN-A1
+- **Upstream Conditions:** Varying P_SW (0.2 nPa, 0.64 nPa, 1.6 nPa); B_IMF fixed at 2 nT
+- **Planes Displayed:**
+  - (a) XY_MSE
+  - (b) XZ_MSE
+  - (c) YZ_MSE
+
+---
+
+### 📽️ Movie S3: Cone Angle Dependence
+
+**Title:** Magnetic field distribution in the induced magnetosphere under varying IMF cone angles (PINN-B model)
+
+- **Model:** PINN-B
+- **Upstream Conditions:** Varying IMF cone angle (e.g., 30°, 90°, 150°)
+- **Planes Displayed:**
+  - (a) XY_MSE
+  - (b) XZ_MSE
+  - (c) YZ_MSE
