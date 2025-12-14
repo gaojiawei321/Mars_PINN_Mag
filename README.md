@@ -27,7 +27,7 @@ MODE = "Psw"  # <<<<<< Switch between "Psw" and "Bimf"
 **Title:** Magnetic field distribution in the induced magnetosphere under varying upstream IMF strengths (PINN-A1 model)
 
 - **Model:** PINN-A1
-- **Upstream Conditions:** Varying B_IMF (1 nT, 2 nT, 4 nT); P_SW fixed at 0.64 nPa
+- **Upstream Conditions:** Varying B_IMF; P_SW fixed at 0.64 nPa
 - **Planes Displayed:**
   - (a) XY_MSE
   - (b) XZ_MSE
@@ -44,21 +44,12 @@ MODE = "Psw"  # <<<<<< Switch between "Psw" and "Bimf"
 **Title:** Magnetic field distribution in the induced magnetosphere under varying solar wind dynamic pressure (PINN-A1 model)
 
 - **Model:** PINN-A1
-- **Upstream Conditions:** Varying P_SW (0.2 nPa, 0.64 nPa, 1.6 nPa); B_IMF fixed at 2 nT
-- **Planes Displayed:**
-  - (a) XY_MSE
-  - (b) XZ_MSE
-  - (c) YZ_MSE
+- **Upstream Conditions:** Varying P_SW; B_IMF fixed at 2 nT
 
----
 
 ### 📽️ Movie S3: Cone Angle Dependence
 
 **Title:** Magnetic field distribution in the induced magnetosphere under varying IMF cone angles (PINN-B model)
 
 - **Model:** PINN-B
-- **Upstream Conditions:** Varying IMF cone angle (e.g., 30°, 90°, 150°)
-- **Planes Displayed:**
-  - (a) XY_MSE
-  - (b) XZ_MSE
-  - (c) YZ_MSE
+- **Upstream Conditions:** Varying IMF cone angle
