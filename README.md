@@ -57,3 +57,7 @@ To generate Movies S3, using To gener`plot_xyz_v1_pinn4_bs3_3P.py`:
 
 - **Model:** PINN-B
 - **Upstream Conditions:** Varying IMF cone angle
+
+---
+
+
